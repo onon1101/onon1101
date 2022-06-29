@@ -1,7 +1,4 @@
-選手歷程(標題我不知道該怎麼打)
-===
-大概訴說選手這段時間發生的事。有些記憶是零碎的
-，大概會想到什麼打什麼。
+
 
 
 ## 動機
@@ -416,3 +413,7 @@
 * 升學
 * 畢旅
 * 得名
+=======
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onon1101&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onon1101)
+>>>>>>> d86dad38aecfc77950971d0e0fae78e7044f26d5
