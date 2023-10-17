@@ -68,8 +68,8 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and sleeping<br/><br/>
  📧 &emsp; Reach me anytime: mingzhuguly@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/onon1101/onon1101/issues)
-   &emsp; My homework in NTUT：https://gitlab.onon1101.org/onon1101
+ 💬 &emsp; Ask me about anything [here](https://github.com/onon1101/onon1101/issues)<br/><br/>
+ 💻 &emsp; My homework in NTUT：https://gitlab.onon1101.org/onon1101
 
 </p>
 
