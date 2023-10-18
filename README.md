@@ -106,7 +106,7 @@
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=onon1101&repo=discord-bot.js&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/onon1101/discord-bot.js)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=onon1101&repo=8-Queens-problem&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/onon1101/8-Queens-problem)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=onon1101&repo=NTUT-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/onon1101/NTUT-API)
-[![my Teminal](https://github-readme-stats.vercel.app/api/pin/?username=onon1101&repo=onon1101.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://onon1101.github.io)
+[![my Teminal](https://github-readme-stats.vercel.app/api/pin/?username=onon1101&repo=NTUT-DSC&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/onon1101/NTUT-DSC)
 
 <p align="left">
   <a href="https://github.com/onon1101?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
