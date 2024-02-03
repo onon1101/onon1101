@@ -130,7 +130,7 @@
 
 <a> 
     <a href="https://github.com/onon1101"><img alt="onon1101's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=onon1101&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/onon1101"><img alt="onon1101's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=onon1101&langs_count=8&hide=html,css,ipynb&exclude_repo=dotfiles&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/onon1101"><img alt="onon1101's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=onon1101&langs_count=8&hide=html,css,ipynb&exclude_repo=dotfiles,Graph-Theory&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
